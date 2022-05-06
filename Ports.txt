@@ -1,0 +1,5 @@
+﻿Identity server https://localhost:7209
+Client1 https://localhost:7001
+Client2 https://localhost:7106
+Api1 https://localhost:7093
+Api2 https://localhost:7088
